@@ -8,3 +8,11 @@ This is releases1
 
 This is test from masbha
 This is for origin origin/relaeses
+<<<<<<< HEAD
+=======
+
+
+
+This is for release test
+
+>>>>>>> This is release commit1
